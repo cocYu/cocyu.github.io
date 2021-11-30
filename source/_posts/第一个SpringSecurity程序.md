@@ -1,10 +1,17 @@
 ---
 title: 第一个SpringSecurity程序
 date: 2021-11-30 18:09:33
-tags: springSecurity
+tags: 
+  - springSecurity
+categories: 
+  - [编程开发,JavaWeb开发]
+reprint: false
 ---
 
+<!--more-->
+
 # 第一个Spring Security 程序
+
 ## 实现步骤
 1. 创建`Spring boot`工程
 2. 导入`Spring Security`依赖
